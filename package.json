@@ -1,0 +1,18 @@
+{
+  "name": "10w-bee-chat-charlie-robin",
+  "version": "1.0.0",
+  "description": "<p align=\"center\"> <img src=\"logo.png\" width=\"200px\" alt=\"Bee Mail Logo\"> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.11",
+    "ws": "^8.19.0"
+  }
+}
